@@ -1,0 +1,27 @@
+{
+	"name": "Firesphere/Poll",
+	"description": "Simplified Poll Module",
+	"type": "silverstripe-module",
+	"homepage": "http://github.com/Firesphere/silverstripe-poll",
+	"keywords": ["silverstripe", "Polling"],
+	"license": "BSD-2-Clause",
+	"authors": [
+	{
+		"name": "Simon 'Sphere' Erkelens",
+		"email": "github@casa-laguna.net",
+		"homepage": "http://casa-laguna.net",
+		"role": "Developer"
+	}
+	],
+	"support": {
+		"issues": "http://github.com/Firesphere/silverstripe-poll/issues"
+	},
+	"require": {
+		"silverstripe/cms": "~3.1",
+		"silverstripe/framework": "~3.1"
+	},
+	"extra": {
+		"installer-name": "silverstripe-poll"
+	}
+}
+	
