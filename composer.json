@@ -1,5 +1,5 @@
 {
-	"name": "Firesphere/Poll",
+	"name": "firesphere/poll",
 	"description": "Simplified Poll Module",
 	"type": "silverstripe-module",
 	"homepage": "http://github.com/Firesphere/silverstripe-poll",
