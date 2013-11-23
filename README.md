@@ -29,6 +29,14 @@ Where you want your poll to appear, add <% if $PollForm %>$PollForm<% end_if %> 
 
 * [`One of my websites`](http://www.filmsvandaag.nl) (in the sidebar on desktop systems)
 
+## Requests
+
+* Beer.
+* Improvements.
+* Translations.
+* Beer.
+* Did I mention beer?
+
 ## Other
 
 * **This module is given "as is" and I am not responsible for any damage it might do to your brain, dog, cat, house, computer or website.**
